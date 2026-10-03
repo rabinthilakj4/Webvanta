@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="webvanta-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b6cff"/>
+      <stop offset="38%" stop-color="#8b5cf6"/>
+      <stop offset="72%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <!-- Background Squircle -->
+  <rect width="512" height="512" rx="128" fill="url(#webvanta-grad)"/>
+  <!-- Webvanta Modern 'W' Emblem -->
+  <path d="M112 168 L184 344 L256 216 L328 344 L400 168" fill="none" stroke="#ffffff" stroke-width="54" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Creative Spark Accent -->
+  <circle cx="410" cy="126" r="20" fill="#ffffff"/>
+</svg>
